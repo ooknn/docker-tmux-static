@@ -3,7 +3,7 @@
 set -e
 set -x
 
-VERSION=2.6
+VERSION=3.2
 
 # based on: https://gist.github.com/pistol/5069697
 
